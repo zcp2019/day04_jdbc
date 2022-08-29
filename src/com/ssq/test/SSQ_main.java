@@ -5,7 +5,7 @@ import com.ssq.dao.SSQ_history;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
 
-import java.sql.Connection;
+
 import java.util.List;
 
 /**
